@@ -1,6 +1,7 @@
 # Aproksymacja-trygonometryczna
 
 W pliku "raport" zawiera się opis projektu wraz z wytłumaczeniem użytych metod.
+Przedstawiono wyniki badanego zagadnienia oraz ich interpretacje. 
 
 Kod napisany został w środowisku MATLAB.
 
